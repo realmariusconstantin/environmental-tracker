@@ -20,7 +20,7 @@
       <div class="contact-admin" id="contactAdminText">
         <p class="track-your-environmental">Contact </p>
         <p class="track-your-environmental">&nbsp;</p>
-        <img src="img/Screenshot%202024-11-27%20161308.png">
+        <img src="@/img/Screenshot%202024-11-27%20161308.png">
         <p class="track-your-environmental">&nbsp;</p>
         <p class="track-your-environmental">Admin</p>
       </div>

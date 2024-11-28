@@ -4,7 +4,7 @@
   <div class="home-page-prototype-1">
     <div class="home-page-prototype-s1">
       <div class="image-container">
-        <img class="firefly-post-apocalyptic-word" alt="Slanted Shape" src="img/ed57f02ec9579b814f7cfb186a342372.jpg">
+        <img class="firefly-post-apocalyptic-word" alt="Slanted Shape" src="@/img/ed57f02ec9579b814f7cfb186a342372.jpg">
       </div>
 
 
@@ -23,21 +23,21 @@
         <div class="sign-in" id="signInText">Sign in </div>
         <div class="log-in" id="logInText">Log in</div>
       </div>
-      <img class="logo-removebg-preview-1-icon" alt="" src="img/Logo-removebg-preview.png">
+      <img class="logo-removebg-preview-1-icon" alt="" src="@/img/Logo-removebg-preview.png">
 
       <div class="users-rate">
         <div class="users-rate-child">
         </div>
         <div class="rated-by-users">Rated by users</div>
-        <img class="users-rate-item" alt="" src="img/Star 1.png">
+        <img class="users-rate-item" alt="" src="@/img/Star 1.png">
 
-        <img class="users-rate-inner" alt="" src="img/Star 1.png">
+        <img class="users-rate-inner" alt="" src="@/img/Star 1.png">
 
-        <img class="star-icon" alt="" src="img/Star 1.png">
+        <img class="star-icon" alt="" src="@/img/Star 1.png">
 
-        <img class="users-rate-child1" alt="" src="img/Star 1.png">
+        <img class="users-rate-child1" alt="" src="@/img/Star 1.png">
 
-        <img class="users-rate-child2" alt="" src="img/Star 1.png">
+        <img class="users-rate-child2" alt="" src="@/img/Star 1.png">
 
       </div>
 <!--      <div class="header-buttons">-->
@@ -64,11 +64,11 @@
     <div class="home-page-prototype-s2">
       <b class="environmental-impact-services">Environmental Impact Services</b>
       <div class="calculate-your-cars">Calculate your car's CO2 emissions and learn how to recycle plastic effectively for a greener future.</div>
-      <img class="earth-5240543-1280-icon" alt="" src="img/earth-5240543_1280.jpg">
+      <img class="earth-5240543-1280-icon" alt="" src="@/img/earth-5240543_1280.jpg">
 
-      <img class="beach-5697987-1280-icon" alt="" src="img/beach-5697987_1280.jpg">
+      <img class="beach-5697987-1280-icon" alt="" src="@/img/beach-5697987_1280.jpg">
 
-      <img class="ai-generated-9085460-1280-icon" alt="" src="img/ai-generated-9085460_1280.jpg">
+      <img class="ai-generated-9085460-1280-icon" alt="" src="@/img/ai-generated-9085460_1280.jpg">
 
       <div class="text-box">
         <div class="co2-emission-tracker-container">
@@ -95,13 +95,13 @@
     <div class="home-page-prototype-s3">
       <b class="eco-projects">Eco Projects</b>
       <div class="explore-initiatives-to">Explore initiatives to reduce CO2 emissions and recycle plastics.</div>
-      <img class="dsc04692-edit-icon" alt="" src="img/DSC04692-Edit.jpg">
+      <img class="dsc04692-edit-icon" alt="" src="@/img/DSC04692-Edit.jpg">
 
-      <img class="waterfall-6619377-1280-icon" alt="" src="img/waterfall-6619377_1280.jpg">
+      <img class="waterfall-6619377-1280-icon" alt="" src="@/img/waterfall-6619377_1280.jpg">
 
-      <img class="namibia-2049203-1280-icon" alt="" src="img/namibia-2049203_1280.jpg">
+      <img class="namibia-2049203-1280-icon" alt="" src="@/img/namibia-2049203_1280.jpg">
 
-      <img class="steering-wheel-7806891-1280-icon" alt="" src="img/steering-wheel-7806891_1280.jpg">
+      <img class="steering-wheel-7806891-1280-icon" alt="" src="@/img/steering-wheel-7806891_1280.jpg">
 
       <div class="carbon-footprint-track-container">
         <p class="carbon-footprint">Carbon Footprint</p>
@@ -130,7 +130,7 @@
         <p class="join-our-community"><span><span>Reach out for inquiries about tracking your environmental impact and reducing CO2 emissions effectively.</span></span>
         </p>
       </div>
-      <img class="envelopes-6919301-1280-icon" alt="" src="img/envelopes-6919301_1280.jpg">
+      <img class="envelopes-6919301-1280-icon" alt="" src="@/img/envelopes-6919301_1280.jpg">
 
       <div class="rectangle-parent">
         <div class="frame-child">
