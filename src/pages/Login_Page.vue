@@ -18,6 +18,11 @@
 
 <script>
 
+
+export default {
+  name: "Login_Page",
+
+}
 </script>
 
 <style>

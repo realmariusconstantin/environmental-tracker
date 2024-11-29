@@ -10,7 +10,7 @@ export default {
       <div class="header-button-home-child">
       </div>
 <!--      <div class="home">Home</div>-->
-      <div class="home"> <router-link to="/HomePageMain">Home</router-link>/ </div>
+      <div class="home">Home</div>
     </div>
     <div class="header-button-home1" id="headerButtonHome1">
       <div class="header-button-home-child">

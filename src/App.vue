@@ -3,7 +3,7 @@
     <Header/>
     <main>
 
-      <router-view />
+      <Home-page-main/>
     </main>
 <!--    <Footer />-->
   </div>
@@ -14,11 +14,14 @@
 
 
 import Header from "@/components/Organisms/Header.vue";
+import HomePageMain from "@/pages/HomePageMain.vue";
 
 export default {
   name: 'App',
   components: {
     Header,
+    HomePageMain,
+
     // Footer,
   },
 }
