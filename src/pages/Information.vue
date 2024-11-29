@@ -1,26 +1,31 @@
 /* eslint-disable vue/multi-word-component-names */
 <template>
-<html>
-<head>
-    <title>Information</title>
-</head>
-<body>
-    <section class="section">
-        <div class="container">
-            <h1 class="title">Information</h1>
-            <p class="subtitle">
-                This is the Information Page
-            </p>
-        </div>
-    </section>
-</body>
-</html>
+  <body>
+
+  <Header />
+  <InfoMain />
+  <Footer/>
+  </body>
+
+
 </template>
 <script>
+import Footer from "@/components/Organisms/Footer.vue";
+import Header from "@/components/Organisms/Header.vue";
+import InfoMain from "@/components/Organisms/InfoMain.vue";
+
 export default {
-  name: 'InformationPage',
+  name: "Information",
+  components: {
+    Header,
+    InfoMain,
+    Footer,
+  },
 }
 </script>
+<style>
+
+</style>
 
 
 

@@ -1,7 +1,8 @@
 <template>
   <div id="app">
-    <Navbar />
+    <Header/>
     <main>
+
       <router-view />
     </main>
 <!--    <Footer />-->
@@ -9,12 +10,15 @@
 </template>
 <script>
 // import Footer from '@/components/Organisms/Footer.vue'
-import Navbar from '@/components/Organisms/Navbar.vue'
+
+
+
+import Header from "@/components/Organisms/Header.vue";
 
 export default {
   name: 'App',
   components: {
-    Navbar,
+    Header,
     // Footer,
   },
 }

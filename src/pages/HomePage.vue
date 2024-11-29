@@ -4,7 +4,7 @@
 
   <body>
 
-  <Header2 />
+  <Header2/>
   <HomeMain/>
   <Footer/>
   </body>
@@ -20,6 +20,7 @@ import Footer from "@/components/Organisms/Footer.vue";
 
 
 export default {
+  name: "HomePage",
   components: {
     Header2,
     HomeMain,
